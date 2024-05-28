@@ -1,6 +1,8 @@
-Flask
-torch
-torchvision
-pillow
-opencv-python
-matplotlib
+Flask==2.0.3
+torch==1.10.2
+torchvision==0.11.3
+pillow==9.1.0
+opencv-python==4.5.5.62
+matplotlib==3.5.1
+
+gunicorn==20.1.0
